@@ -1,6 +1,8 @@
 # Meghana Killada
 
-**3rd-year undergraduate student at San Diego State University (Major in Computer Science & Minor in Business Administration)**
+**3rd-Year Undergraduate Student at San Diego State University**
+
+**Major in Computer Science & Minor in Business Administration**
 
 I am interested in software engineering, machine learning, and cybersecurity. My goal is to leverage technology to make impactful contributions to the CS industry and society. Looking forward to connect with fellow peers and industry professionals!
 
