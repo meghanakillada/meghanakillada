@@ -7,7 +7,7 @@ I am interested in software engineering, machine learning, and cybersecurity. My
 ## Tech Stack
 - **Languages:** Python, Java, C++, C, Matlab, Haskell, Prolog, MIPS
 - **Web Development:** HTML, CSS, Javascript, React, Node.js,
-- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib
 - **Databases:** SQL, SQLite, PostgreSQL
 - **Cybersecurity:** Unix, Linux
 - **Tools:** Jupyter Notebooks, Google Colab, Git, Github, VSCode, IntelliJ, CLion
@@ -16,7 +16,7 @@ I am interested in software engineering, machine learning, and cybersecurity. My
 
 **1. [Wireless Mobile Subscriber Churn Prediction Model and Generative AI Chatbot](https://github.com/BTTAI-Verizon-2/AI-Studio-Project)**
 - Built a supervised ML/DNN model that predicts the churn of wireless mobile subscribers using network location, network usage (voice/data), billing and customer service data. Created a generative AI/BI (RAG to SQL) chatbot to help answer natural language analytic queries on the predicted dataset.
-- **Tools:** Python, Scikit-Learn, TensorFlow, Streamlit
+- **Tools:** Python, Scikit-Learn, TensorFlow, Matplotlib, Streamlit
 - **Learnings:** exploratory data analysis, machine learning, RAG-to-SQL
 
 **2. [On The Fly](https://github.com/meghanakillada/onthefly)**
