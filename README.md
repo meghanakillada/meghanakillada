@@ -18,7 +18,7 @@ I am interested in software engineering, machine learning, and cybersecurity. My
 ## Projects
 
 **1. [Wireless Mobile Subscriber Churn Prediction Model and Generative AI Chatbot](https://github.com/BTTAI-Verizon-2/AI-Studio-Project)**
-- Built a supervised ML/DNN model that predicts the churn of wireless mobile subscribers using network location, network usage (voice/data), billing and customer service data.
+- Built a supervised ML/DNN model that predicts the wireless mobile subscriber churn with 97.17% accuracy using network location, network usage (voice/data), billing and customer service data.
 - Created a generative AI/BI (RAG to SQL) chatbot to help answer natural language analytic queries on the predicted dataset.
 - **Tools:** Python, Scikit-Learn, TensorFlow, Matplotlib, Streamlit
 - **Learnings:** exploratory data analysis, machine learning, RAG-to-SQL
