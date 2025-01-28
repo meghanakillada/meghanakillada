@@ -25,6 +25,7 @@ I am interested in software engineering, machine learning, and cybersecurity. My
 
 **2. [AWS Document Compliance](https://github.com/meghanakillada/AWSDocumentCompliance)**
 - Designed and implemented a solution to automate document compliance checks by identifying missing key information.
+- Won 'Most Impact Potential' at the LPL Financial Hackarama 2025, competing against 43 teams and 137 participants from 6 universities to deliver a high-impact solution.
 - **Tools:** AWS Textract, AWS Lambda, AWS S3, Python
 - **Learnings:** cloud, text extraction, serverless execution, scalable storage
 
