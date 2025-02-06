@@ -7,7 +7,7 @@
 I am interested in software engineering, machine learning, and cybersecurity. My goal is to leverage technology to make impactful contributions to the CS industry and society. Looking forward to connect with fellow peers and industry professionals!
 
 ## Tech Stack
-- **Languages:** Python, Java, C++, C, Matlab, Haskell, Prolog, MIPS, R
+- **Languages:** Python, Java, C++, C, MATLAB, Haskell, Prolog, MIPS, R
 - **Web Development:** Javascript, React, Node.js, HTML, CSS, Web API
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Pytorch
 - **Databases:** SQL, SQLite, PostgreSQL
