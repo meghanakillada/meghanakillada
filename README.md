@@ -11,9 +11,9 @@ I am interested in software engineering, machine learning, and cybersecurity. My
 - **Web Development:** Javascript, React, Node.js, HTML, CSS, Web API
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Pytorch
 - **Databases:** SQL, SQLite, PostgreSQL
-- **Cybersecurity:** Unix, Linux
+- **Cybersecurity:** Unix, Linux, Splunk
 - **Cloud:** AWS (Textract, Lambda, S3), GCP (BigQuery)
-- **Tools:** Jupyter Notebooks, Google Colab, Git, Github, VSCode, IntelliJ, CLion
+- **Tools:** VSCode, IntelliJ, CLion, Jupyter Notebooks, Google Colab, Git, Github, Tableau
 
 ## Projects
 
@@ -30,7 +30,7 @@ I am interested in software engineering, machine learning, and cybersecurity. My
 - **Learnings:** cloud, text extraction, serverless execution, scalable storage
 
 **3. [On The Fly](https://github.com/meghanakillada/onthefly)**
-- Created a web app which allows users to plan trips and add destinations related to the trip.
+- Created a full-stack web app which allows users to plan trips and add destinations related to the trip.
 - **Tools:** PostgreSQL, Express, React, Node.js, Javascript, HTML, CSS, Railway
 - **Learnings:** full-stack web development, relational database
 
