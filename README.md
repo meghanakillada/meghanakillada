@@ -20,25 +20,31 @@ I am interested in software engineering, machine learning, and cybersecurity. My
 **1. [Wireless Mobile Subscriber Churn Prediction Model and Generative AI Chatbot](https://github.com/BTTAI-Verizon-2/AI-Studio-Project)**
 - Built a supervised ML/DNN model that predicts the wireless mobile subscriber churn with 97.17% accuracy using network location, network usage (voice/data), billing and customer service data.
 - Created a generative AI/BI (RAG to SQL) chatbot to help answer natural language analytic queries on the predicted dataset.
-- **Tools:** Python, Scikit-Learn, TensorFlow, Matplotlib, Streamlit
+- **Tools:** Python, Scikit-Learn, TensorFlow, Matplotlib, Streamlit, Google Colab
 - **Learnings:** exploratory data analysis, machine learning, RAG-to-SQL
 
-**2. [AWS Document Compliance](https://github.com/meghanakillada/AWSDocumentCompliance)**
+**2. [WiDS ADHD Pattern Regression](https://github.com/WIDS-1-BTT-25/WIDS-ADHD-pattern-regression)**
+- Developed a multi-output regression model to predict ADHD diagnosis and participant sex using functional MRI and socio-demographic data, achieving an F1-score of 0.75 for ADHD prediction.
+- Achieved 3rd place among UCLA Break Through Tech AI teams in the Women in Data Science Datathon 2025.
+- **Tools:** Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Google Colab
+- **Learnings:** exploratory data analysis, machine learning
+
+**3. [AWS Document Compliance](https://github.com/meghanakillada/AWSDocumentCompliance)**
 - Designed and implemented a solution to automate document compliance checks by identifying missing key information.
 - Won 'Most Impact Potential' at the LPL Financial Hackarama 2025, competing against 43 teams and 137 participants from 6 universities to deliver a high-impact solution.
 - **Tools:** AWS Textract, AWS Lambda, AWS S3, Python
 - **Learnings:** cloud, text extraction, serverless execution, scalable storage
 
-**3. [On The Fly](https://github.com/meghanakillada/onthefly)**
+**4. [On The Fly](https://github.com/meghanakillada/onthefly)**
 - Created a full-stack web app which allows users to plan trips and add destinations related to the trip.
 - **Tools:** PostgreSQL, Express, React, Node.js, Javascript, HTML, CSS, Railway
 - **Learnings:** full-stack web development, relational database
 
-**4. [Data Dashboard](https://github.com/meghanakillada/WEB102-project5)**
+**5. [Data Dashboard](https://github.com/meghanakillada/WEB102-project5)**
 - Designed a data display that allows users to interact with data about characters from The Amazing Spider-Man series.
 - **Tools:** Javascript, React, HTML, CSS, web API
 - **Learnings:** frontend development, data visualization, API integration
 
 ## Contact
 - **Email:** meghanajkillada@gmail.com
-- **LinkedIn:** [linkedin.com/in/meghana-killada-abb8aa230](https://www.linkedin.com/in/meghana-killada-abb8aa230/)
+- **LinkedIn:** [linkedin.com/in/meghanakillada](https://www.linkedin.com/in/meghanakillada/)
