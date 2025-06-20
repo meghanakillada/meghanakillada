@@ -1,6 +1,6 @@
 # Meghana Killada
 
-**3rd-Year Undergraduate Student at San Diego State University**
+**4th-Year Undergraduate Student at San Diego State University**
 
 **Major in Computer Science & Minor in Business Administration**
 
