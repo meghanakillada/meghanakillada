@@ -8,12 +8,12 @@ I am interested in software engineering, machine learning, and cybersecurity. My
 
 ## Tech Stack
 - **Languages:** Python, Java, C++, C, MATLAB, Haskell, Prolog, MIPS, R
-- **Web Development:** Javascript, React, Node.js, HTML, CSS, Web API
-- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Pytorch
+- **Web Development:** Javascript, React, Node.js, HTML, CSS, Web API, Spring Boot, Flask
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Pytorch, HuggingFace
 - **Databases:** SQL, SQLite, PostgreSQL
 - **Cybersecurity:** Unix, Linux, Splunk
 - **Cloud:** AWS (Textract, Lambda, S3), GCP (BigQuery)
-- **Tools:** VSCode, IntelliJ, CLion, Jupyter Notebooks, Google Colab, Git, Github, Tableau
+- **Tools:** VSCode, IntelliJ, CLion, Jupyter Notebooks, Google Colab, Git, Github, Tableau, Microsoft Office (Word, Excel, Powerpoint, Access)
 
 ## Projects
 
