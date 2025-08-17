@@ -20,13 +20,13 @@ I am interested in software engineering, machine learning, and cybersecurity. My
 **1. [Wireless Mobile Subscriber Churn Prediction Model and Generative AI Chatbot](https://github.com/BTTAI-Verizon-2/AI-Studio-Project)**
 - Built a supervised ML/DNN model that predicts the wireless mobile subscriber churn with 97.17% accuracy using network location, network usage (voice/data), billing and customer service data.
 - Created a generative AI/BI (RAG to SQL) chatbot to help answer natural language analytic queries on the predicted dataset.
-- **Tools:** Python, Scikit-Learn, TensorFlow, Matplotlib, Streamlit, Google Colab
+- **Tools:** Python, Scikit-learn, TensorFlow, Matplotlib, Streamlit, Google Colab
 - **Learnings:** exploratory data analysis, machine learning, RAG-to-SQL
 
 **2. [WiDS ADHD Pattern Regression](https://github.com/WIDS-1-BTT-25/WIDS-ADHD-pattern-regression)**
 - Developed a multi-output regression model to predict ADHD diagnosis and participant sex using functional MRI and socio-demographic data, achieving an F1-score of 0.75 for ADHD prediction.
 - Achieved 3rd place among UCLA Break Through Tech AI teams in the Women in Data Science Datathon 2025.
-- **Tools:** Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Google Colab
+- **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Google Colab
 - **Learnings:** exploratory data analysis, machine learning
 
 **3. [AWS Document Compliance](https://github.com/meghanakillada/AWSDocumentCompliance)**
@@ -35,15 +35,20 @@ I am interested in software engineering, machine learning, and cybersecurity. My
 - **Tools:** AWS Textract, AWS Lambda, AWS S3, Python
 - **Learnings:** cloud, text extraction, serverless execution, scalable storage
 
-**4. [On The Fly](https://github.com/meghanakillada/onthefly)**
-- Created a full-stack web app which allows users to plan trips and add destinations related to the trip.
-- **Tools:** PostgreSQL, Express, React, Node.js, Javascript, HTML, CSS, Railway
-- **Learnings:** full-stack web development, relational database
-
-**5. [Data Dashboard](https://github.com/meghanakillada/WEB102-project5)**
+**4. [Data Dashboard](https://github.com/meghanakillada/WEB102-project5)**
 - Designed a data display that allows users to interact with data about characters from The Amazing Spider-Man series.
 - **Tools:** Javascript, React, HTML, CSS, web API
 - **Learnings:** frontend development, data visualization, API integration
+
+**5. [On The Fly](https://github.com/meghanakillada/onthefly)**
+- Created a full-stack web app which allows users to plan trips and add destinations related to the trip.
+- **Tools:** PostgreSQL, Express, React, Node.js, Javascript, HTML, CSS, Railway
+- **Learnings:** full-stack web development, relational database, CRUD operations, dynamic data visualization
+
+**6. [Cognizant Gen AI Externship](https://github.com/meghanakillada/CognizantGenAI)**
+- Applied Python and generative AI techniques across projects involving GPT‑2, BERT fine‑tuning, and BigGAN image synthesis; built text completion apps, explored prompt tuning, and evaluated model outputs for coherence, bias, and factuality.
+- **Tools:** Python, Scikit-learn, Hugging Face, OpenAI GPT-2, BigGAN-deep-256, BERT
+- **Learnings:** generative AI, LLM applications, prompt engineering
 
 ## Contact
 - **Email:** meghanajkillada@gmail.com
