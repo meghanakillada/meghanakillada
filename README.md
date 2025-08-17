@@ -4,7 +4,7 @@
 
 **Major in Computer Science & Minor in Business Administration**
 
-I am interested in software engineering, machine learning, and cybersecurity. My goal is to leverage technology to make impactful contributions to the CS industry and society. Looking forward to connect with fellow peers and industry professionals!
+I am interested in software engineering, machine learning, and artificial intelligence. My goal is to leverage technology to make impactful contributions to the CS industry and society. Looking forward to connect with fellow peers and industry professionals!
 
 ## Tech Stack
 - **Languages:** Python, Java, C++, C, .NET, C#, MATLAB, Haskell, Prolog, MIPS, R
