@@ -7,16 +7,15 @@
 I am interested in software engineering, machine learning, and artificial intelligence. My goal is to leverage technology to make impactful contributions to the CS industry and society. Looking forward to connect with fellow peers and industry professionals!
 
 ## Tech Stack
-- **Languages:** Python, Java, C++, C, .NET, C#, MATLAB, Haskell, Prolog, MIPS, R
-- **Web Development:** Javascript, React, Node.js, HTML, CSS, Web API, Spring Boot, Flask, Streamlit
-- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Pytorch, HuggingFace
+- **Languages:** Python, Java, C++, C#, .NET, MATLAB, Haskell, Prolog, MIPS, R, SAS, Swift
+- **Web Development:** Javascript, React, Node.js, HTML, CSS, Web API, Spring Boot, Flask, Jinja, Streamlit, Bootstrap
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Pytorch, Keras, Matplotlib, Seaborn, HuggingFace
 - **Databases:** SQL, SQLite, PostgreSQL, MongoDB
 - **Cybersecurity:** Unix, Linux, Splunk
-- **Cloud:** AWS (Textract, Lambda, S3, SageMaker, Bedrock, EC2), GCP (BigQuery)
-- **Tools:** VSCode, IntelliJ, CLion, Jupyter Notebooks, Google Colab, Git, Github, Apache Kafka, Tableau, Dynatrace, Jira, Confluence, Microsoft Office (Word, Excel, Powerpoint, Access)
+- **Cloud:** AWS (Textract, Lambda, S3, SageMaker, Bedrock, EC2), GCP (BigQuery), Azure (Virtual Machines)
+- **Tools:** VSCode, IntelliJ, CLion, Jupyter Notebooks, Google Colab, Git, Github, Apache Kafka, Unity, Tableau, Dynatrace, Jira, Confluence, Microsoft Office (Word, Excel, Powerpoint, Access)
 
 ## Projects
-
 **1. [Wireless Mobile Subscriber Churn Prediction Model and Generative AI Chatbot](https://github.com/BTTAI-Verizon-2/AI-Studio-Project)**
 - Built a supervised ML/DNN model that predicts the wireless mobile subscriber churn with 97.17% accuracy using network location, network usage (voice/data), billing and customer service data.
 - Created a generative AI/BI (RAG to SQL) chatbot to help answer natural language analytic queries on the predicted dataset.
@@ -37,7 +36,7 @@ I am interested in software engineering, machine learning, and artificial intell
 
 **4. [Data Dashboard](https://github.com/meghanakillada/WEB102-project5)**
 - Designed a data display that allows users to interact with data about characters from The Amazing Spider-Man series.
-- **Tools:** Javascript, React, HTML, CSS, web API
+- **Tools:** Javascript, React, HTML, CSS, Web API
 - **Learnings:** frontend development, data visualization, API integration
 
 **5. [On The Fly](https://github.com/meghanakillada/onthefly)**
