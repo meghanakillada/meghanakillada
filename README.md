@@ -20,7 +20,7 @@ I am interested in software engineering, machine learning, and artificial intell
 - Built a supervised ML/DNN model that predicts the wireless mobile subscriber churn with 97.17% accuracy using network location, network usage (voice/data), billing and customer service data.
 - Created a generative AI/BI (RAG to SQL) chatbot to help answer natural language analytic queries on the predicted dataset.
 - **Tools:** Python, Scikit-learn, TensorFlow, Matplotlib, Streamlit, Google Colab
-- **Learnings:** exploratory data analysis, machine learning, RAG-to-SQL
+- **Learnings:** exploratory data analysis, machine learning, RAG, Text-to-SQL
 
 **2. [WiDS ADHD Pattern Regression](https://github.com/WIDS-1-BTT-25/WIDS-ADHD-pattern-regression)**
 - Developed a multi-output regression model to predict ADHD diagnosis and participant sex using functional MRI and socio-demographic data, achieving an F1-score of 0.75 for ADHD prediction.
@@ -35,12 +35,13 @@ I am interested in software engineering, machine learning, and artificial intell
 - **Learnings:** cloud, text extraction, serverless execution, scalable storage
 
 **4. [Data Dashboard](https://github.com/meghanakillada/WEB102-project5)**
-- Designed a data display that allows users to interact with data about characters from The Amazing Spider-Man series.
+- Designed an interactive data dashboard, allowing users to visualize and explore data about characters from The Amazing Spider-Man series using dynamic charts, graphs and real-time filtering and sorting features across 2736 comics.
 - **Tools:** Javascript, React, HTML, CSS, Web API
 - **Learnings:** frontend development, data visualization, API integration
 
 **5. [On The Fly](https://github.com/meghanakillada/onthefly)**
-- Created a full-stack web app which allows users to plan trips and add destinations related to the trip.
+- Engineered a full-stack web application that provides users with a seamless interface for planning trips and organizing destinations using robust data management and server-side logic in order to streamline travel planning.
+- Allows users to plan trips and add destinations related to the trip.
 - **Tools:** PostgreSQL, Express, React, Node.js, Javascript, HTML, CSS, Railway
 - **Learnings:** full-stack web development, relational database, CRUD operations, dynamic data visualization
 
