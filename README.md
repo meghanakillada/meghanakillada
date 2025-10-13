@@ -39,7 +39,7 @@ I am interested in software engineering, machine learning, and artificial intell
 - **Tools:** Javascript, React, HTML, CSS, Web API
 - **Learnings:** frontend development, data visualization, API integration
 
-**5. [On The Fly](https://github.com/meghanakillada/onthefly)**
+**5. [On The Fly](https://github.com/meghanakillada/OnTheFly)**
 - Engineered a full-stack web application that provides users with a seamless interface for planning trips and organizing destinations using robust data management and server-side logic in order to streamline travel planning.
 - Allows users to plan trips and add destinations related to the trip.
 - **Tools:** PostgreSQL, Express, React, Node.js, Javascript, HTML, CSS, Railway
