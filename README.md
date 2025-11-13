@@ -50,6 +50,11 @@ I am interested in software engineering, machine learning, and artificial intell
 - **Tools:** Python, Scikit-learn, Hugging Face, OpenAI GPT-2, BigGAN-deep-256, BERT
 - **Learnings:** generative AI, LLM applications, prompt engineering
 
+**7. [Fish On! 2D Game](https://github.com/meghanakillada/FishOn)**
+- Designed and developed an arcade-style fishing game where players cast a line, reel in fish, and earn points within a timed session featuring varied fish behaviors, speeds, and point values.
+- **Tools:** Unity, C#, TextMeshPro, Animator, Audio Source
+- **Learnings:** 2D-game development, animation, event-driven scripting
+
 ## Contact
 - **Email:** meghanajkillada@gmail.com
 - **LinkedIn:** [linkedin.com/in/meghanakillada](https://www.linkedin.com/in/meghanakillada/)
