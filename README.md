@@ -1,10 +1,17 @@
 # Meghana Killada
 
-**4th-Year Undergraduate Student at San Diego State University**
-
-**Major in Computer Science & Minor in Business Administration**
-
 I am interested in software engineering, machine learning, and artificial intelligence. My goal is to leverage technology to make impactful contributions to the CS industry and society. Looking forward to connect with fellow peers and industry professionals!
+
+## Education
+
+**University of California, Los Angeles (UCLA)**  
+Master of Science in Data Science Engineering
+*March 2026 – Present*
+
+**San Diego State University (SDSU)**  
+Bachelor of Science in Computer Science  
+Minor in Business Administration  
+*August 2022 – December 2025*
 
 ## Tech Stack
 - **Languages:** Python, Java, C++, C#, .NET, MATLAB, Haskell, Prolog, MIPS, R, SAS, Swift
@@ -12,8 +19,9 @@ I am interested in software engineering, machine learning, and artificial intell
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Pytorch, Keras, Matplotlib, Seaborn, HuggingFace
 - **Databases:** SQL, SQLite, PostgreSQL, MongoDB
 - **Cybersecurity:** Unix, Linux, Splunk
-- **Cloud:** AWS (Textract, Lambda, S3, SageMaker, Bedrock, EC2), GCP (BigQuery), Azure (Virtual Machines)
+- **Cloud:** AWS (Bedrock, S3, SageMaker AI, Lambda, API Gateway, IAM, Textract, EC2), GCP (BigQuery), Azure (Virtual Machines)
 - **Tools:** VSCode, IntelliJ, CLion, Jupyter Notebooks, Google Colab, Git, Github, Apache Kafka, Unity, Tableau, Dynatrace, Jira, Confluence, Microsoft Office (Word, Excel, Powerpoint, Access)
+- **AI-assisted Development Tools:** Cursor, Claude, Copilot, Codex
 
 ## Projects
 **1. [Wireless Mobile Subscriber Churn Prediction Model and Generative AI Chatbot](https://github.com/BTTAI-Verizon-2/AI-Studio-Project)**
